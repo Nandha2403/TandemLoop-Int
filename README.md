@@ -1,3 +1,8 @@
 
 ## CODING LANGUAGE 
-Javascript
+#Javascript
+
+## Comments
+git add .
+git commit
+git push
